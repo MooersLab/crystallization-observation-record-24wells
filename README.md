@@ -1,1 +1,2 @@
-# Scoresheet for recording observations and post-crystallization treatments of crystals
+# Scoresheet for crystallization drops and post-crystallization treatments
+
