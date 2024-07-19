@@ -1,6 +1,6 @@
 ![Version](https://img.shields.io/static/v3?label=crystallization-observation-record-24wells&message=0.3&color=brightcolor)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-Right now
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # Scoresheet for crystallization drops and post-crystallization treatments
 
 This scoresheet is for a four-row and six-column crystallization tray.
