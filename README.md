@@ -1,13 +1,12 @@
-![Version](https://img.shields.io/static/v3?label=crystallization-observation-record-24wells&message=0.1&color=brightcolor)
+![Version](https://img.shields.io/static/v3?label=crystallization-observation-record-24wells&message=0.3&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-
+Right now
 # Scoresheet for crystallization drops and post-crystallization treatments
 
 This scoresheet is for a four-row and six-column crystallization tray.
 The instructions on using this score sheet are in its header.
 We have used this version for three years. 
-We consider to be stable.
+We consider it to be stable.
 Please take a look at the related repository for the [scoring key](https://github.com/MooersLab/crystal-score-key) that we use.
 
 You can record numerical scores regarding ranking the drops by their desirability.
